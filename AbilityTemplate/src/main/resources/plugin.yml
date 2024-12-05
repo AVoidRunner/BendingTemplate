@@ -1,0 +1,4 @@
+name: AbilityTemplate
+version: '${project.version}'
+main: com.voidrunnerv.abilitytemplate.abilitytemplate.AbilityTemplate
+api-version: 1.19
